@@ -1,6 +1,12 @@
 # low poly art
 
-## kolibri
+## butterfly
+
+![](butterfly_v1.svg)
+
+![](butterfly_v1_c.svg)
+
+## hummingbird
 
 Photo by [Chris Charles on Unsplash](https://unsplash.com/@licole)
 
@@ -8,4 +14,12 @@ Photo by [Chris Charles on Unsplash](https://unsplash.com/@licole)
 
 ![](hummingbird_v1.svg)
 
+![](hummingbird_v1_c.svg)
+
 ![](hummingbird_v2.svg)
+
+## polar-bear
+
+![](polar-bear_v1.svg)
+
+![](polar-bear_v1_c.svg)
