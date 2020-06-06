@@ -6,6 +6,14 @@
 
 ![](butterfly_v1_c.svg)
 
+## guppy
+
+![](guppy_v1.svg)
+
+![](guppy_v1_c.svg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/de/Guppy_breeds.jpg)
+
 ## hummingbird
 
 Photo by [Chris Charles on Unsplash](https://unsplash.com/@licole)
@@ -23,3 +31,4 @@ Photo by [Chris Charles on Unsplash](https://unsplash.com/@licole)
 ![](polar-bear_v1.svg)
 
 ![](polar-bear_v1_c.svg)
+
