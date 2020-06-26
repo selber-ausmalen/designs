@@ -2,15 +2,15 @@
 
 ## butterfly
 
-![](butterfly_v1.svg)
+![](butterfly.svg)
 
-![](butterfly_v1_c.svg)
+![](butterfly_c.svg)
 
 ## guppy
 
-![](guppy_v1.svg)
+![](guppy.svg)
 
-![](guppy_v1_c.svg)
+![](guppy_c.svg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/de/Guppy_breeds.jpg)
 
@@ -20,15 +20,15 @@ Photo by [Chris Charles on Unsplash](https://unsplash.com/@licole)
 
 ![](https://images.unsplash.com/photo-1520552159191-e28a1d9f0d7e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=chris-charles-9APFPoNb9iw-unsplash.jpg&w=640)
 
-![](hummingbird_v1.svg)
+![](hummingbird.svg)
 
-![](hummingbird_v1_c.svg)
+![](hummingbird_c.svg)
 
 ![](hummingbird_v2.svg)
 
 ## polar-bear
 
-![](polar-bear_v1.svg)
+![](polar-bear.svg)
 
-![](polar-bear_v1_c.svg)
+![](polar-bear_c.svg)
 
