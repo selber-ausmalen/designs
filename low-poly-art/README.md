@@ -21,3 +21,10 @@ Photo by [Chris Charles on Unsplash](https://unsplash.com/@licole)
 ## polar-bear
 
 ![](polar-bear.svg)
+
+## racing-car
+
+Thanks to @mistercwr for making this photo available freely on @unsplash 🎁
+https://unsplash.com/photos/6l4CBNleEBE 
+
+![](racing-car.svg)
